@@ -1,0 +1,1 @@
+# Notes-for-Microsoft-Fabric-DP-600
